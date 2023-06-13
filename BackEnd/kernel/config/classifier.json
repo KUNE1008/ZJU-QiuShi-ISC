@@ -1,0 +1,9 @@
+{
+  "purchase": {"lr": 0.001, "epochs": 100, "featuresize": 100},
+  "facescrub": {"lr": 0.0002, "epochs": 150, "featuresize": 530},
+  "cifar10": {"lr": 0.1, "epochs": 300, "featuresize": 10},
+  "mnist": {"lr": 0.1, "epochs": 300, "featuresize": 10},
+  "texas": {"lr": 0.001, "epochs": 20, "featuresize": 100},
+  "location": {"lr": 0.01, "epochs": 30, "featuresize": 30},
+  "cifar100": {"lr": 0.1, "epochs": 300, "featuresize": 100}
+}

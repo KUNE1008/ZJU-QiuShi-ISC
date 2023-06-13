@@ -1,0 +1,6 @@
+{
+  "purchase": {"lr": 0.0001, "epochs": 100, "featuresize": 100},
+  "facescrub": {"lr": 0.0001, "epochs": 100, "featuresize": 530},
+  "cifar10": {"lr": 0.0001, "epochs": 100, "featuresize": 10},
+  "mnist": {"lr": 0.0002, "epochs": 100, "featuresize": 10}
+}

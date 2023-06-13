@@ -1,0 +1,19 @@
+{
+    
+    "purchase": {
+        "D2_5000":{"size":5000,"dataset_index":1,"repeat":false},	
+        "D2_10000":{"size":10000,"dataset_index":1,"repeat":false},	
+        "D2_20000":{"size":20000,"dataset_index":1,"repeat":false},	
+        "D2_40000":{"size":40000,"dataset_index":1,"repeat":true},	
+        "D2_60000":{"size":60000,"dataset_index":1,"repeat":true},	
+        "D1_20000":{"size":20000,"dataset_index":0,"repeat":false}
+    },
+    "facescrub": {
+        //TODO: Add configs
+    },
+    "cifar10": {
+        //TODO: Add configs
+      
+    }
+    
+}
